@@ -1,0 +1,42 @@
+.table{
+    margin: auto;
+    width: 1200px;
+    border: solid 1px red;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  h2{
+    font-size: 30px;
+    color: #ffffff;
+  }
+}
+.frafik{
+    width: 100%;
+    border: solid 2px rgb(66, 44, 179);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  padding: 20px;
+}
+
+.text{
+    width: 40%;
+    background-color: aqua;
+
+    border: solid 3px red;
+    display: flex;
+  justify-content: center;
+  span{
+    margin: auto;
+    border: solid 1px red;
+
+  }
+}
+
+.progress{
+    width: 60%;
+}

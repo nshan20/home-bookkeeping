@@ -1,0 +1,394 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "nshan@mail.com",
+      "name": "Nshan",
+      "password": "123456"
+    }
+  ],
+  "bill": {
+    "value": 119999,
+    "currency": "RUB"
+  },
+  "event": [
+    {
+      "type": "income",
+      "amount": 20,
+      "category": 1,
+      "date": "2022-09-06T15:52:27.620Z",
+      "description": "aaa",
+      "categoryName": "zozo",
+      "id": 1
+    },
+    {
+      "type": "expense",
+      "amount": 17,
+      "category": 1,
+      "date": "2022-09-06T15:57:25.909Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 2
+    },
+    {
+      "type": "expense",
+      "amount": 34,
+      "category": 1,
+      "date": "2022-09-06T15:57:27.772Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 3
+    },
+    {
+      "type": "income",
+      "amount": 6,
+      "category": 1,
+      "date": "2022-09-06T15:57:56.253Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 4
+    },
+    {
+      "type": "income",
+      "amount": 2,
+      "category": 7,
+      "date": "2022-09-06T15:58:42.473Z",
+      "description": null,
+      "categoryName": "samsung",
+      "id": 5
+    },
+    {
+      "type": "income",
+      "amount": 1,
+      "category": 7,
+      "date": "2022-09-06T15:59:30.849Z",
+      "description": null,
+      "categoryName": "samsung",
+      "id": 6
+    },
+    {
+      "type": "income",
+      "amount": 10,
+      "category": 7,
+      "date": "2022-09-06T16:10:29.081Z",
+      "description": null,
+      "categoryName": "samsung",
+      "id": 7
+    },
+    {
+      "type": "expense",
+      "amount": 70,
+      "category": 7,
+      "date": "2022-09-06T16:12:24.619Z",
+      "description": null,
+      "categoryName": "samsung",
+      "id": 8
+    },
+    {
+      "type": "income",
+      "amount": 20,
+      "category": 7,
+      "date": "2022-09-06T16:12:51.318Z",
+      "description": null,
+      "categoryName": "samsung",
+      "id": 9
+    },
+    {
+      "type": "income",
+      "amount": 200,
+      "category": 2,
+      "date": "2022-09-06T16:13:53.639Z",
+      "description": null,
+      "categoryName": "Nshan",
+      "id": 10
+    },
+    {
+      "type": "income",
+      "amount": 100,
+      "category": 2,
+      "date": "2022-09-06T16:14:47.634Z",
+      "description": null,
+      "categoryName": "Nshan",
+      "id": 11
+    },
+    {
+      "type": "expense",
+      "amount": 600,
+      "category": 2,
+      "date": "2022-09-06T16:15:17.544Z",
+      "description": null,
+      "categoryName": "Nshan",
+      "id": 12
+    },
+    {
+      "type": "income",
+      "amount": 16,
+      "category": 3,
+      "date": "2022-09-06T16:17:20.690Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 13
+    },
+    {
+      "type": "income",
+      "amount": 168,
+      "category": 3,
+      "date": "2022-09-06T16:17:34.421Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 14
+    },
+    {
+      "type": "income",
+      "amount": 151,
+      "category": 3,
+      "date": "2022-09-06T16:17:35.920Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 15
+    },
+    {
+      "type": "income",
+      "amount": 136,
+      "category": 3,
+      "date": "2022-09-06T16:17:37.023Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 16
+    },
+    {
+      "type": "income",
+      "amount": 122,
+      "category": 3,
+      "date": "2022-09-06T16:17:37.805Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 17
+    },
+    {
+      "type": "income",
+      "amount": 110,
+      "category": 3,
+      "date": "2022-09-06T16:17:38.576Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 18
+    },
+    {
+      "type": "income",
+      "amount": 6,
+      "category": 1,
+      "date": "2022-09-06T17:24:40.478Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 19
+    },
+    {
+      "type": "income",
+      "amount": 5,
+      "category": 1,
+      "date": "2022-09-06T17:24:53.643Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 20
+    },
+    {
+      "type": "expense",
+      "amount": 37,
+      "category": 1,
+      "date": "2022-09-06T17:39:36.227Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 21
+    },
+    {
+      "type": "expense",
+      "amount": 88,
+      "category": 1,
+      "date": "2022-09-06T17:39:49.797Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 22
+    },
+    {
+      "type": "income",
+      "amount": 3,
+      "category": 4,
+      "date": "2022-09-06T17:42:11.376Z",
+      "description": null,
+      "categoryName": "mmm",
+      "id": 23
+    },
+    {
+      "type": "income",
+      "amount": 10,
+      "category": 6,
+      "date": "2022-09-06T17:42:53.577Z",
+      "description": null,
+      "categoryName": "Xaomp",
+      "id": 24
+    },
+    {
+      "type": "expense",
+      "amount": 1,
+      "category": 1,
+      "date": "2022-09-06T17:55:23.426Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 25
+    },
+    {
+      "type": "expense",
+      "amount": 1,
+      "category": 1,
+      "date": "2022-09-06T17:56:04.725Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 26
+    },
+    {
+      "type": "income",
+      "amount": 178,
+      "category": 1,
+      "date": "2022-09-06T18:49:28.982Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 27
+    },
+    {
+      "type": "expense",
+      "amount": 10,
+      "category": 1,
+      "date": "2022-09-06T18:49:36.963Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 28
+    },
+    {
+      "type": "expense",
+      "amount": 1000,
+      "category": 1,
+      "date": "2022-09-06T19:00:52.254Z",
+      "description": null,
+      "categoryName": "zozo",
+      "id": 29
+    },
+    {
+      "type": "expense",
+      "amount": 1000000,
+      "category": 3,
+      "date": "2022-09-09T18:15:34.722Z",
+      "description": "cemend",
+      "categoryName": "edo",
+      "id": 30
+    },
+    {
+      "type": "expense",
+      "amount": 1000993,
+      "category": 3,
+      "date": "2022-09-09T18:15:37.042Z",
+      "description": "cemend",
+      "categoryName": "edo",
+      "id": 31
+    },
+    {
+      "type": "income",
+      "amount": 1000,
+      "category": 8,
+      "date": "2022-09-09T18:18:36.246Z",
+      "description": null,
+      "categoryName": "dexc",
+      "id": 32
+    },
+    {
+      "type": "income",
+      "amount": 2001,
+      "category": 3,
+      "date": "2022-09-09T19:08:13.703Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 33
+    },
+    {
+      "type": "income",
+      "amount": 1999,
+      "category": 3,
+      "date": "2022-09-09T19:08:31.644Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 34
+    },
+    {
+      "type": "income",
+      "amount": 19979,
+      "category": 3,
+      "date": "2022-09-09T19:29:49.769Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 35
+    },
+    {
+      "type": "income",
+      "amount": 1,
+      "category": 3,
+      "date": "2022-09-09T19:30:39.926Z",
+      "description": null,
+      "categoryName": "edo",
+      "id": 36
+    }
+  ],
+  "categories": [
+    {
+      "name": "zozo",
+      "number": 1011,
+      "id": 1
+    },
+    {
+      "name": "Nshan",
+      "number": 700,
+      "id": 2
+    },
+    {
+      "name": "edo",
+      "number": 1978006,
+      "id": 3
+    },
+    {
+      "name": "mmm",
+      "number": 33,
+      "id": 4
+    },
+    {
+      "name": "Xaomp",
+      "number": 95,
+      "id": 6
+    },
+    {
+      "name": "samsung",
+      "number": 57,
+      "id": 7
+    },
+    {
+      "name": "dexc",
+      "number": 8000,
+      "id": 8
+    }
+  ],
+  "base": {
+    "RUB": 1.777,
+    "rates": {
+      "EUR": 0.099,
+      "USD": 0.017
+    }
+  },
+  "profile": {
+    "name": "typicode"
+  }
+}
